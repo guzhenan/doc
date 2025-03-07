@@ -1,3 +1,0 @@
-git config --global user.name "guzhenan"
-git config --global user.email "1226454581@qq.com"
-git remote add guzhenan https://github.com/guzhenan/doc.git

@@ -56,13 +56,20 @@
      git config user.email "<邮箱地址>"
      ```
 
+   - 添加代理
+
+     ```bash
+     #以clash代理端口为例
+     git config --global http.proxy http://127.0.0.1:7890    #设置 HTTP 代理：
+     git config --global https.proxy http://127.0.0.1:7890   #设置 HTTPS 代理
+     ```
+     
    - 查看当前配置信息。
 
      ```bash
      git config --list
      ```
 
-     
 
 ## 二、基本操作
 
