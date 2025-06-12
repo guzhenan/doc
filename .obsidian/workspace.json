@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "ed066a415fc8b1c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2577b87d6aa0623",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3354ec6099d03e76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_数学/01_高等数学/4. 第四章：不定积分/Lecture 28：不定积分.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 28：不定积分"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "09f1068603774c63",
+    "type": "split",
+    "children": [
+      {
+        "id": "220a195df867873e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5262f7d8e60cd889",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "b12f66528e96c21e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#极值与拐点的重要结论",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "071471fca9efdad8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 494.5
+  },
+  "right": {
+    "id": "bc92781f61e435e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "78928d59e3d66d2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5c68bb84007ed7f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "README 的反向链接列表"
+            }
+          },
+          {
+            "id": "173d0f1b7c87ad16",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "README 的出链列表"
+            }
+          },
+          {
+            "id": "2fbb09f60c099bae",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "b2f163ccb27d236d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "README 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "3354ec6099d03e76",
+  "lastOpenFiles": [
+    "01_数学/01_高等数学/3. 第三章：微分中值定理与导数应用/Lecture 21：微分中值定理.md",
+    "Pasted image 20250609212458.png",
+    "Pasted image 20250609211732.png",
+    "Pasted image 20250608225238.png",
+    "01_数学/01_高等数学/3. 第三章：微分中值定理与导数应用/Lecture 25：函数的极值与最值.md",
+    "01_数学/01_高等数学/3. 第三章：微分中值定理与导数应用/Lecture 23：泰勒公式.md",
+    "01_数学/01_高等数学/2. 第二章：导数与微分/Lecture 20：函数的微分.md",
+    "01_数学/01_高等数学/2. 第二章：导数与微分/Lecture 19：隐函数与参数方程.md",
+    "01_数学/01_高等数学/3. 第三章：微分中值定理与导数应用/Lecture 27：曲率.md",
+    "01_数学/01_高等数学/3. 第三章：微分中值定理与导数应用/Lecture 26：渐近线与函数图形的绘制.md",
+    "03_408/数据结构/树/未命名.md",
+    "03_408/数据结构/树",
+    "03_408/计算机网络",
+    "03_408/操作系统",
+    "03_408/计算机组成原理",
+    "03_408/数据结构",
+    "未命名",
+    "03_408/未命名.md",
+    "03_408",
+    "Pasted image 20250602233032.png",
+    "01_数学/00_其他/02_公式合集/高等数学 - 公式合集.md",
+    "Pasted image 20250602215718.png",
+    "Pasted image 20250602215625.png",
+    "Pasted image 20250602215314.png",
+    "00_附件/Pasted image 20240115201603.png",
+    "Pasted image 20250602215013.png",
+    "Pasted image 20250602215003.png",
+    "01_数学/01_高等数学/3. 第三章：微分中值定理与导数应用/Lecture 24：函数的单调性与曲线的凹凸性.md",
+    "01_数学/02_线性代数/2. 第二章：矩阵/Lecture 4：矩阵的定义及其基本运算.md",
+    "01_数学/02_线性代数/1. 第一章：行列式/Lecture 3：行列式的计算.md",
+    "01_数学/02_线性代数/1. 第一章：行列式/Lecture 1：课程引言.md",
+    "01_数学/02_线性代数/1. 第一章：行列式/Lecture 2：行列式的定义与性质.md",
+    "01_数学/00_其他/02_公式合集/高等数学 - 思维导图.md",
+    "未命名 2.canvas",
+    "01_数学/01_高等数学/2. 第二章：导数与微分/Lecture 16：导数基本概念.md",
+    "01_数学/01_高等数学/1. 第一章：函数、极限、连续/Lecture 1：课程大纲.md",
+    "01_数学/01_高等数学/2. 第二章：导数与微分/Lecture 18：高阶导数.md",
+    "00_附件/01_模板/3. 定律.md",
+    "00_附件/01_模板/2. 定理.md",
+    "01_数学/01_高等数学/2. 第二章：导数与微分/Lecture 17：导数求导法则.md",
+    "01_数学/01_高等数学/6. 第六章：微分方程/Lecture 35：微分方程的基本概念.md",
+    "未命名 1.canvas",
+    "01_数学/01_高等数学/1. 第一章：函数、极限、连续/Lecture 2：函数的概念及常见函数.md",
+    "README.md",
+    "未命名.canvas"
+  ]
+}
